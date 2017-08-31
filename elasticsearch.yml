@@ -1,5 +1,1 @@
 thread_pool.bulk.queue_size: 200
-xpack.security.enabled: false
-xpack.monitoring.enabled: false
-xpack.graph.enabled: false
-xpack.watcher.enabled: false
